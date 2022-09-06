@@ -24,3 +24,4 @@ rdb:svelte-meteor-data  # Meteor package which allows us to consume Meteor's rea
 hot-module-replacement@0.5.1  # Update client in development without reloading the page
 accounts-password
 msavin:mongol
+accounts-ui

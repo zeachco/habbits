@@ -2,7 +2,7 @@
   import User from "./User.svelte";
   import Login from "./Login.svelte";
   let counter = 0;
-  const addToCounter = () => {
+  function addToCounter() {
     counter += 1;
   };
 </script>
